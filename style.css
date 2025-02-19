@@ -1,0 +1,86 @@
+.titulo{
+    color: darksalmon;
+    text-align: center;
+    text-decoration: underline 3px black;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+.SMR{
+    margin-left: 15%;
+}
+
+.caja1{
+    background-color: hotpink;
+}
+
+img{
+    height: 100px;
+    width: 200px;
+}
+
+.caja2{
+    background-color: gray;
+}
+
+.DAM{
+   
+    text-align: center;
+}
+
+.caja3{
+    background-color: deepskyblue;
+}
+
+.ASIR{
+    margin-left: 70%;
+}
+
+.azul{
+    color: blue;
+}
+
+.rojo{
+    color: red;
+}
+
+.final{
+    background-color: yellow;
+    text-align: center;
+}
+
+.titulo{
+    color: darksalmon;
+    text-align: center;
+    text-decoration: underline 3px black;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+.Nombre{
+    color: salmon;
+}
+
+.cnombre{
+    display: flex;
+}
+
+.final{
+    background-color: yellow;
+    text-align: center;
+}
+
+.horari{
+    color: blue;
+}
+
+th, td{
+    border: 2px solid black;
+    color: red;
+    text-align: center;
+}
+
